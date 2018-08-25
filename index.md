@@ -13,6 +13,6 @@ title: Uncelestial's Pleasuredome
   new Twitch.Embed("twitch-embed", {
     width: 854,
     height: 480,
-    channel: "monstercat"
+    channel: "uncelestial"
   });
 </script>
